@@ -1,4 +1,4 @@
-<h2> Hi &nbsp<img width="24px" src="./img/blobDance.gif"> </h2>
+## hi <img width="24px" src="./img/blobDance.gif">
 
 ```make
 *** stack smashing detected ***: ./readme terminated
